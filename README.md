@@ -16,9 +16,8 @@ GPXService.addPoint({
 let output = GPXService.toXML();
 
 
-/**
 Will output something like this
-
+/**
 <?xml version="1.0"?>
 <gpx
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
