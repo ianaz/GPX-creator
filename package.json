@@ -1,0 +1,19 @@
+{
+  "name": "gpx-creator",
+  "version": "1.0.0",
+  "description": "Generate GPX files",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "keywords": [
+    "zattix",
+    "gpx"
+  ],
+  "author": "Silvio Rainoldi",
+  "license": "ISC",
+  "devDependencies": {
+    "chai": "^3.5.0",
+    "mocha": "^3.2.0"
+  }
+}
